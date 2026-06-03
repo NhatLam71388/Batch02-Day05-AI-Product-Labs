@@ -201,3 +201,14 @@ Metric:
 - Layla.ai: mô tả sản phẩm là AI trip planner/travel agent, tạo itinerary cá nhân hóa theo ngày đi, điểm đến, ngân sách và travel style.
 - Tripadvisor Trips: mô tả việc build trip bằng saved places hoặc dùng AI để lấy custom recommendations, collaborate with friends và organize trip ideas.
 - Self-use: nhóm tự dùng ChatGPT/Gemini và một số app travel trên điện thoại để thử lập lịch trình đi chơi.
+
+--- 
+## Hình Ảnh
+
+![ChatGPT travel plan](assets/image1.png)
+
+![Gemini travel plan](assets/image.png)
+
+![Layla AI Trip Planner](assets/image2.png)
+
+![Tripadvisor TripBuilder](assets/imgae4.png)
