@@ -211,4 +211,4 @@ Metric:
 
 ![Layla AI Trip Planner](assets/image2.png)
 
-![Tripadvisor TripBuilder](assets/imgae4.png)
+![Tripadvisor TripBuilder](assets/image4.png)
